@@ -26,7 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-Please dont install any node_modules in any internal folders or try to run the application from internal folders as the whole application is automatically binded by Lerna and Yarn.
+Please dont install any node_modules in any internal folders or try to run the application from internal folders as the whole application is automatically binded Yarn.
 
 # Contents
 
@@ -98,8 +98,6 @@ $ yarn install
 ```
 $ cp .env.example .env
 ```
-
-Make Sure you add Steam key to the .env file. You can generate steam key [here](https://steamcommunity.com/dev/apikey) and bind the domain to localhost if running locally or to the domain where you are running the project.
 
 * Step5: Run local postgres using docker
 
